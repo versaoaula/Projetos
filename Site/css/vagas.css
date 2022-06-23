@@ -1,0 +1,51 @@
+
+body {
+
+    background-color: #F5F5DC;
+    background-image: url('city.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: 1920px 1080px;
+
+}
+ 
+.headerVagas {
+
+    color: navy;
+    text-align: center;
+    margin-top: 50px;
+
+}
+
+.formVagas {
+
+    text-align: left;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+
+}
+
+.form-label {
+
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+    text-shadow: 2px 2px navy;
+
+}
+
+.form-group {
+
+    margin-bottom: 15px;
+
+}
+
+#btnCadastrarVagas {
+
+    margin: auto;
+    width: 20%;
+    margin-left: 600px;
+
+}
