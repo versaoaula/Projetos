@@ -46,6 +46,12 @@ body {
 
     margin: auto;
     width: 20%;
-    margin-left: 600px;
+
+}
+
+#btnVoltar {
+
+    margin: auto;
+    margin-left: 360px;
 
 }
