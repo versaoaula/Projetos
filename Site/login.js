@@ -2,7 +2,7 @@
   
 function Login(){
 
-  const usuario = [
+  const usuario = 
   {"usuario": "Renata",
    "senha": "12345678"
   },
@@ -22,7 +22,6 @@ function Login(){
     alert("Senha ou Usuário inválido.");
     break;
   }
-
   }
 }
 
