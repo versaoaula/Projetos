@@ -11,11 +11,15 @@ function cadastrarLogin(){
     alert("Nenhuma das senhas podem ficar sem preencher!");
     return false
   }else if ((compara == true) && (password == password2)) {
-    window.location.href = "login.html"
+    window.location.href = "home.html"
     alert("Cadastrado com sucesso!");
   }
   else {
     alert("As senhas devem ser iguais.");
   }
 
+}
+
+function voltarLogin(){
+  window.location.href = "login.html"
 }
